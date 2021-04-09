@@ -106,7 +106,7 @@ function validateLogin($username,$password){
               <li class="nav-item ml-3">
                   <a class="nav-link" href="staff.php">Our Teachers</a>
                </li>
-                <!-- <li class="nav-item dropdown ml-3">
+                <li class="nav-item dropdown ml-3">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Result
         </a>
@@ -127,8 +127,8 @@ function validateLogin($username,$password){
           <a class="dropdown-item" href="eight.php">Class 8</a>
           <a class="dropdown-item" href="#">Class 9</a>
         </div>
-      </li>  -->
-      <li class="nav-item dropdown">
+      </li> 
+      <!-- <li class="nav-item dropdown">
             <a href="#" class="dropdown-toggle nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Results<span class="caret"></span></a>
             <ul class="dropdown-menu">
               <li><a class="dropdown-item" href="nursary.php">Nursary</a></li>
@@ -150,7 +150,7 @@ function validateLogin($username,$password){
               <li><a class="dropdown-item" href="eigth.php">Class 8</a></li>
               <li><a class="dropdown-item" href="nine.php">Class 9</a></li>
             </ul>
-          </li>
+          </li> -->
                <li class="nav-item ml-3">
                   <a class="nav-link" href="fee.php">Fee Structure</a>
                </li>
