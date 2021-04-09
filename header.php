@@ -107,7 +107,7 @@ function validateLogin($username,$password){
                   <a class="nav-link" href="staff.php">Our Teachers</a>
                </li>
                 <li class="nav-item dropdown ml-3">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Result
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
