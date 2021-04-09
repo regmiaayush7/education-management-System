@@ -107,7 +107,7 @@ function validateLogin($username,$password){
                   <a class="nav-link" href="staff.php">Our Teachers</a>
                </li>
                 <li class="nav-item dropdown ml-3">
-        <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Result
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -127,7 +127,30 @@ function validateLogin($username,$password){
           <a class="dropdown-item" href="eight.php">Class 8</a>
           <a class="dropdown-item" href="#">Class 9</a>
         </div>
-      </li>
+      </li> 
+      <!-- <li class="nav-item dropdown">
+            <a href="#" class="dropdown-toggle nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Results<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="nursary.php">Nursary</a></li>
+              <li><a class="dropdown-item" href="lkg.php">LKG</a></li>
+              <li><a class="dropdown-item"href="ukg.php">UKG</a></li>
+              <li role="separator" class="divider"></li>
+              <li class="dropdown-header"></li>
+              <li><a class="dropdown-item" href="one.php">Class 1</a></li>
+              <li><a class="dropdown-item" href="two.php">Class 2</a></li>
+              <li><a class="dropdown-item" href="three.php">Class 3</a></li>
+              <li role="separator" class="divider"></li>
+              <li class="dropdown-header"></li>
+              <li><a class="dropdown-item" href="four.php">Class 4</a></li>
+              <li><a class="dropdown-item" href="five.php">Class 5</a></li>
+              <li><a class="dropdown-item" href="six.php">Class 6</a></li>
+              <li role="separator" class="divider"></li>
+              <li class="dropdown-header"></li>
+              <li><a class="dropdown-item" href="seven.php">Class 7</a></li>
+              <li><a class="dropdown-item" href="eigth.php">Class 8</a></li>
+              <li><a class="dropdown-item" href="nine.php">Class 9</a></li>
+            </ul>
+          </li> -->
                <li class="nav-item ml-3">
                   <a class="nav-link" href="fee.php">Fee Structure</a>
                </li>
